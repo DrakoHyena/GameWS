@@ -1,0 +1,8 @@
+
+NODE VERSION: v20.10.0
+WEBSOCKET LIBRARY: ws ^8.18.0
+TESTS:
+[✔ coderDataTypes.js] true
+[✔ connection.js] true
+[✔ exampleClient.js] true
+RESULTS: ✔ Passed (3/3 tests passed)
